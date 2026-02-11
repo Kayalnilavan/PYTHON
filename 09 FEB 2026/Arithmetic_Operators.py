@@ -1,0 +1,9 @@
+x=20
+y=2
+print("x+y = ",(x+y))
+print("x-y = ",(x-y))
+print("x*y = ",(x*y))
+print("x/y = ",(x/y))
+print("x//y = ",(x//y)) #floor division
+print("x**y = ",(x**y)) #power
+print("x%y = ",(x%y)) #modulus
