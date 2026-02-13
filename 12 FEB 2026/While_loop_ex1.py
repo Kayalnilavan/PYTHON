@@ -1,0 +1,11 @@
+#Increment
+x=1
+while x<=10:
+    print(x)
+    x+=1
+print("")   
+#Decrement 
+x=10
+while x>0:
+    print(x)
+    x-=1
